@@ -106,3 +106,7 @@ print("Welcome to my GitHub!")
 ---
 
 **Thank You for Visiting My GitHub Profile!** ❤️
+
+## Useful Links
+
+[Google](https://www.google.com)
